@@ -1,1 +1,0 @@
-:root{--c-bg-d: #111111;--c-bg: #1d1d1d;--c-bg-l: #414142;--c-basic: #2272ff;--c-t: #ffffff;--c-red: #ff0000;--c-yellow: #ffe30b;--c-green: #56ac00}.list{width:100%;background:var(--c-bg);max-height:20dvh;overflow:scroll}.list__item{font-size:1.2em;height:5dvh;padding:5px;border-bottom:1px solid var(--c-bg-l)}.list__item span{color:var(--c-basic);font-size:.7em;padding-left:5px}
